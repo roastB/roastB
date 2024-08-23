@@ -1,5 +1,6 @@
-<h1 align="left">Hi👋, I'm Sunghyun Cho,</h1> <h2 style="display.inline">A developer creating innovative robotics technology with passion🔥.</h2>
-
+<h1 align="left">Hi👋, I'm Sunghyun Cho,</h1>
+<h2 style="display.inline">A developer creating innovative robotics technology with passion🔥.</h2>
+<p></p>
 <h3 align="left">Robotic technology is one of the important fields that will lead future innovation, and I would like to contribute to this field with the robot I developed.</h3>
 
 - 🔭 I’m currently working on **My_Robot_modeling**
