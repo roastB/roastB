@@ -6,10 +6,11 @@
 <!--[2] Introduction-->
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> A developer creating innovative robotics technology with passion🔥 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Robotic technology is one of the important fields that will lead future innovation, and I would like to contribute to this field.<br/><br/>
-    </li></li><li> 🌱  I'm currently working on a hands on project implementing deep learning and AI robot systems through the 'AI Robot Autonomous Driving' course at addinedu.
-    </li></li><li> 🔭 I'm currently studying C++ additionally.
-    </li></li><li> 👨‍💻 All project videos can be found on my YouTube channel. Check it out!😊 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
+    🤖 Robotic technology is one of the important fields that will lead future innovation, and I would like to contribute to this field.<br/><br/>
+    </li></li><li> 🌱 I'm currently working on a hands on project implementing deep learning and AI robot systems through the 'AI Robot Autonomous Driving' course at addinedu.
+    </li></li><li> 🔭 All project videos can be found on my YouTube channel. Check it out!
+    </li></li><li> 👨‍💻 Additionally, I am currently focusing more on studying C++. </div> 
 </div>
     
 <!--[3] Skill Stack-->    
@@ -19,8 +20,6 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Ubuntu 22.04-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
           <br/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
@@ -31,7 +30,9 @@
           <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>  
           <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
           <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-          </div>
+          <br/><br/><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+    </div>
 </div>
 
 <!--[4] Stat-->
