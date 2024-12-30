@@ -47,7 +47,7 @@
     <div align= "center"> 
          <a href=https://www.youtube.com/channel/UCjv7NvKzkCB6vfdkZwwm_qg> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"> </a>
          <a href=mailto:iceative12@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iceative12@gmail.com"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="> </a>
+         <a href="mailto:3388tjdgus@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:3388tjdgus@naver.com"> </a>
          <a href=https://velog.io/@r0astb/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@r0astb/posts"> </a>
     </div>  <br> 
     <div align= "center">  </div> 
@@ -58,4 +58,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roastB&layout=compact&bg_color=180,00000000,a8c0ff&title_color=ffffff&text_color=ffffff"/>
     </div> 
 </div>
-    
+
+
