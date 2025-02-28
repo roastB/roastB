@@ -43,7 +43,7 @@
          <a href=https://www.youtube.com/channel/UCjv7NvKzkCB6vfdkZwwm_qg> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"> </a>
          <a href=mailto:iceative12@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iceative12@gmail.com"> </a>
          <a href=mailto:3388tjdgus@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:3388tjdgus@naver.com"> </a>
-         <a href=https://velog.io/@r0astb/posts> <img src="https://img.shields.io/badge/tistory-FF6000?style=for-the-badge&logo=tistory&logoColor=white&link=https://velog.io/@r0astb/posts"> </a>
+         <a href=https://roastb.tistory.com/> <img src="https://img.shields.io/badge/tistory-FF6000?style=for-the-badge&logo=tistory&logoColor=white&link=https://roastb.tistory.com/"> </a>
     </div>  <br> 
 </div>
 
