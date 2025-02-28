@@ -10,9 +10,9 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🔥 A developer creating innovative robotics technology with passion </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
     Robotic technology is one of the important fields that will lead future innovation, and I would like to contribute to this field.<br/><br/>
-    </li></li><li>📌 I am a junior robotics developer preparing for employment while studying C++ on my own.
-    </li></li><li>🌱 Additionally, starting in March, I will be participating in an AI-LLM service robot team project organized by <a href="https://www.oroca.org" target="_blank">OROCA</a>(Open Source Robot Cafe).
-    </li></li><li>☃️ I recently completed 'the AI Robot Autonomous Driving course' at addinedu. The projects completed during the course can be found in my repository.
+    </li></li><li>📌 <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAFgzvTQBR1BIOkGOExoz147cv51LxFHUNSs&keywords=%EC%A1%B0%EC%84%B1%ED%98%84&origin=RICH_QUERY_SUGGESTION&position=1&searchId=fab89f28-4500-4662-9095-cb72d10edea8&sid=R6b&spellCorrectionEnabled=false" target="_blank">I</a> am a junior robotics developer preparing for employment while studying C++ on my own.
+    </li></li><li>🌱 Additionally, starting in March, I will be participating in an AI-LLM service robot team project organized by <a href="https://cafe.naver.com/openrt" target="_blank">OROCA</a>(Open Source Robot Cafe).
+    </li></li><li>☃️ I recently completed 'the AI Robot Autonomous Driving course' at <a href="https://github.com/addinedu-ros-7th" target="_blank">addinedu.</a>
     </li></li><li>🔭 All projects can be found on my Blog and YouTube channel. Check them out!
 </div>
 
@@ -29,7 +29,7 @@
 | **AI & Deep Learning** | ⭐⭐⭐☆☆ | ![TensorFlow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![Yolov8](https://img.shields.io/badge/Yolov8-F2E142?style=for-the-badge&logo=elegoo&logoColor=white) |
 | **Robotics & Autonomous Systems** | ⭐⭐⭐⭐☆ | ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)  ![Mapping](https://img.shields.io/badge/Mapping-0D597F?style=for-the-badge&logo=ROS&logoColor=white) ![Navigation](https://img.shields.io/badge/Navigation-0D597F?style=for-the-badge&logo=ROS&logoColor=white) |
 | **Embedded & Hardware** | ⭐⭐⭐⭐☆ | ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white) |
-| **Development Environment** | ⭐⭐⭐⭐☆ | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) |
+| **Development Environment** | ⭐⭐⭐⭐☆ | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![Ubuntu 22.04&24.04](https://img.shields.io/badge/Ubuntu%2022.04%2024.04-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Collaboration Tools** | ⭐⭐⭐⭐⭐ | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
 
 </div>
