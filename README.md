@@ -13,7 +13,7 @@
     </li></li><li>📌 <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAFgzvTQBR1BIOkGOExoz147cv51LxFHUNSs&keywords=%EC%A1%B0%EC%84%B1%ED%98%84&origin=RICH_QUERY_SUGGESTION&position=1&searchId=fab89f28-4500-4662-9095-cb72d10edea8&sid=R6b&spellCorrectionEnabled=false" target="_blank">I</a> am a junior robotics developer preparing for employment while studying C++ on my own.
     </li></li><li>🌱 Additionally, starting in March, I will be participating in an AI-LLM service robot team project organized by <a href="https://cafe.naver.com/openrt" target="_blank">OROCA</a>(Open Source Robot Cafe).
     </li></li><li>☃️ I recently completed 'the AI Robot Autonomous Driving course' at <a href="https://github.com/addinedu-ros-7th" target="_blank">addinedu.</a>
-    </li></li><li>🔭 All projects can be found on my Blog and YouTube channel. Check them out!
+    </li></li><li>🔭 All projects can be found on my <a href="https://roastb.tistory.com/" target="_blank">Blog</a> and <a href="https://www.youtube.com/channel/UCjv7NvKzkCB6vfdkZwwm_qg" target="_blank">YouTube</a> channel. Check them out!
 </div>
 
 <hr style="border: 1px solid #21262d;"/>
