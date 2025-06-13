@@ -47,15 +47,8 @@
 
 <!--[4] Achievements & Education--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->   
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎯 Key Achievements & Education </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Recent Projects <a href="https://www.youtube.com/watch?v=tyQN5nz1XKo" target="_blank" style="color: #58a6ff; text-decoration: none; font-size: 0.8em;">[Demo Video]</a></h2>
     <div style="font-weight: 500; font-size: 14px; text-align: left; color: #c9d1d9; margin: 15px 0;">        
-        <h3 style="color: #58a6ff; margin: 20px 0 10px 0;">🎓 Education & Training</h3>
-        <ul style="line-height: 1.6;">
-            <li><strong>2018.03 ~ 2024.08</strong> - Kangnam University, Electronic Engineering (3.93/4.5 GPA)</li>
-            <li><strong>2024.08 ~ 2025.02</strong> - EduInEdu AI Robot Autonomous Driving Course (960 hours)</li>
-            <li><strong>2025.03 ~ 2025.06</strong> - EduInEdu Advanced Course: ROS2 Robot Systems (349 hours)</li>
-        </ul>
-        <h3 style="color: #58a6ff; margin: 20px 0 10px 0;">🚀 Recent Projects <a href="https://www.youtube.com/watch?v=tyQN5nz1XKo" target="_blank" style="color: #58a6ff; text-decoration: none; font-size: 0.8em;">[Demo Video]</a></h3>
         <ul style="line-height: 1.6;">
             <li><strong>Communication Protocols</strong> - ROS2, UDP, TCP/IP, REST API, WebSocket implementation</li>
             <li><strong>Computer Vision</strong> - OpenCV, Camera Calibration, MediaPipe integration</li>
